@@ -1,8 +1,19 @@
 # Translation App
-How to make translation app,tranlate language in android
+
+How to make translation app,tranlate language in android,How to change language in android?
+
+#  Demo
+
+Here is the link to download apk file
+
+https://github.com/kontashi35/Translation/blob/master/SimpleTranslation.apk
+
 #  Working
+
 Here is the simple application which demonstrate how to make translation app.
+
 #  Here is the heart code of application
+
 1.  Helper class which is necessary for translation.copy and paste in new class call LocaleHelper.class
 
 https://github.com/kontashi35/Translation/blob/master/app/src/main/java/com/icthealth/translationapp/LocaleHelper.java
